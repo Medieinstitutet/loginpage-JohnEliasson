@@ -16,7 +16,7 @@ users.push(user1)
 user2 = new Object();
 user2 = {
     username: "tom",
-    password: "bajs"
+    password: "tompa"
 }
 
 users.push(user2)
@@ -24,7 +24,7 @@ users.push(user2)
 user3 = new Object();
 user3 = {
     username: "john",
-    password: "nerd"
+    password: "jompa"
 }
 
 users.push(user3)
